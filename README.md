@@ -4,6 +4,9 @@ Projeto acadêmico desenvolvido para a disciplina de Engenharia de Prompt e Apli
 
 🔗 **Acesse o projeto:** https://connectcaredonate.lovable.app/
 
+[Documentação completa](./Documentação ConnectCare.pdf)
+[Apresentação](./Apresentação ConnectCare.pdf)
+
 ### 📚 O que aprendi
 
 - Como consumir e integrar APIs externas (BrasilAPI, Gmail)
