@@ -4,7 +4,7 @@ Projeto acadêmico desenvolvido para a disciplina de Engenharia de Prompt e Apli
 
 🔗 **Acesse o projeto:** https://connectcaredonate.lovable.app/
 
-📄 [Documentação completa](./documetacao.pdf)
+📄 [Documentação completa](./documentacao.pdf)
 📊 [Apresentação](./apresentacao.pdf)
 
 ### 📚 O que aprendi
